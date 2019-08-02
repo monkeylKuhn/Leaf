@@ -12,3 +12,6 @@
 target/
 logs/
 log/
+.settings
+.project
+.classpath
